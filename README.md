@@ -21,8 +21,7 @@
 - 🤝 Yardım aradığım konular: **Sistem Tasarımı, Cloud Native Mimari ve Ölçeklenebilir Veritabanları.**
 - 💬 Bana şu konularda soru sorabilirsiniz: **React, React Native (Expo), TypeScript, Express.js, Prisma, PostgreSQL ve Supabase Security.**
 - 📫 Bana ulaşmak için: **fk6895164@gmail.com**
-- ⚡ Eğlenceli gerçek: **Debug etmek, aynı zamanda katil de olduğunuz bir polisiye filmde dedektif olmak gibidir!**
-
+- 🧩 Kod yazmak benim için bir zanaat: temiz mimari, güvenli veri akışı ve kullanıcı deneyimini bir arada kurmayı seviyorum.
 <br>
 
 <div align="center">
